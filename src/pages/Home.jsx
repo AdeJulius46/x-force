@@ -23,9 +23,9 @@ function Home() {
             <div className='col-lg-6 py-4'>
               <h3 className='main-text1'>OUR TOKEN IS <span className='secondaryColor1'>LIVE</span></h3>
               <h1 className='main-text2 mt-3'>APE TOKENS <span className='secondaryColor2'>WITH</span> EASE</h1>
-              <p className='text my-4'>BOOMM Project is a fully integrated system
+              <p className='text my-4'>Y INNOVATIONS Project is a fully integrated system
               for you to ape with ease forget about Poocoin/Dextool or Uniswap we provide all directly in your telegram group</p>
-              <div className='my-4'>
+              <div className='mt-4'>
                 <button className='btn px-5 bgSecondary1'>JOIN TELEGRAM</button>
                 <button className='btn px-5 bgSecondary2 mx-3'>BUY NOW!</button>
               </div>
@@ -35,18 +35,29 @@ function Home() {
             </div>
           </div>
           <div className='row'>
-            d
-            <div className='col-lg-3 text-center bg-dark py-3 px-5 text-light'>
-              <h2>30.41</h2>
-              <p>STAKED[%]</p>
+            <div className='col-lg-3'>
+                <div className=' text-center bg-dark py-4 px-5 text-light'>
+                <h2 className='secondaryColor1'>182</h2>
+                <p>HOLDERS</p>
+                </div>
             </div>
-            <div className='col-lg-3 text-center bg-dark py-3 px-5 text-light'>
-              <h2 >34846</h2>
-              <p>TOKEN MCAP [USD]</p>
+            <div className='col-lg-3'>
+                <div className=' text-center bg-dark py-4 px-5 text-light'>
+                <h2 className='secondaryColor1'>30.41</h2>
+                <p>STAKED[%]</p>
+                </div>
             </div>
-            <div className='col-lg-3 text-center bg-dark py-3 px-5 text-light'>
-              <h2>1024</h2>
-              <p>VOLUME TRADED [BNB]</p>
+            <div className='col-lg-3'>
+                <div className='text-center bg-dark py-4 px-5 text-light'>
+                <h2 className='secondaryColor1' >34846</h2>
+                <p>TOKEN MCAP [USD]</p>
+                </div>
+            </div>
+            <div className='col-lg-3'>
+                <div className='text-center bg-dark py-4 px-5 text-light'>
+                <h2 className='secondaryColor1'>1024</h2>
+                <p>VOLUME TRADED [BNB]</p>
+                </div>
             </div>
           </div>
         </div>
@@ -58,17 +69,17 @@ function Home() {
               <img src={img2} alt="" className='w-100'/>
             </div>
           </div>
-          <div className='col-lg-6'>
-            <div>
-              <h4>THE STORY</h4>
-              <h1 className=''>ABOUT US</h1>
-              <p>BOOMM is not just a sniper bot or trading bot, we have built a full integrated system including buybot, walletbot, safecheck and trading bot all direct within telegram. Eliminating the need to use exchanges such as, Dextools, Poocoin, Uniswap and Pancakeswap, we provide all this to you directly in your community group.</p>
+          <div className='col-lg-6 px-4'>
+            <div className=''>
+              <h4 className='secondaryColor2'>THE STORY</h4>
+              <h3 className=''>ABOUT US</h3>
+              <p>Y INNOVATIONS is not just a sniper bot or trading bot, we have built a full integrated system including buybot, walletbot, safecheck and trading bot all direct within telegram. Eliminating the need to use exchanges such as, Dextools, Poocoin, Uniswap and Pancakeswap, we provide all this to you directly in your community group.</p>
             </div>
             <div>
-              <h4>OUR VISIONS</h4>
-              <h1>UTILITY THAT SERVES THE COMMUNITY</h1>
+              <h4 className='secondaryColor1'>OUR VISIONS</h4>
+              <h3>UTILITY THAT SERVES THE COMMUNITY</h3>
               <p>In 98% of tokens the devs just build utility to pump the chart. BOOMM is different, we aim to solve real problems in crypto space.</p>
-              <p>All the BOOMM utilities are interconnected and work together to provide the best user experience possible.</p>
+              <p>All the Y INNOVATIONS utilities are interconnected and work together to provide the best user experience possible.</p>
             </div>
             <div className='row'>
               <div className="col-6">
@@ -102,9 +113,9 @@ function Home() {
                         <p>THE PROBLEM</p>  
                         <p className='secondaryColor1'>10%</p>
                     </div>
-                    <p>We built BOOMM firstly to solve a problem
+                    <p>We built Y INNOVATIONS firstly to solve a problem
                     that we face everyday ourselves, we were tired of switching between Poocoin/Dextool, telegram and Uniswap/Pankcakeswap copying the contract and finally wake up with a dead token.</p>
-                    <p>So we chose to build something to solve the issues and from here BOOMM was born.</p>
+                    <p>So we chose to build something to solve the issues and from here Y INNOVATIONS was born.</p>
                 </div>
                 <div className="col-lg-5">
                     <div>
@@ -153,7 +164,7 @@ function Home() {
                         <h2>YOP</h2>
                         <p>Lead DEV</p>
                         <p>With more than 14years experiences as fullstack engineer and entrepreneur in heart, always looking for challenges.
-                        Love the crypto world, and started BOOMM just for fun but now its become a full time projects with a real market and business model.</p>
+                        Love the crypto world, and started Y INNOVATIONS just for fun but now its become a full time projects with a real market and business model.</p>
                     </div>
                 </div>
             </div>
